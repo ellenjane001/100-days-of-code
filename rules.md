@@ -3,8 +3,8 @@
 ## Main Commitment
 ### *I will code for at least an hour every day for the next 100 days.*
 
-#### Start Date
-<h1>July 21, 2022</h1>
+#### <h1> Start Date </h1>
+<h2>July 21, 2022</h2>
 
 ## Additional Rules
 1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
